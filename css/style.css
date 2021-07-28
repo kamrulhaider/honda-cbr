@@ -20,3 +20,7 @@ header {
 .greyscale {
   filter: grayscale(100%);
 }
+.fas,
+.far {
+  color: #e77c40;
+}
