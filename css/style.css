@@ -1,3 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-weight: 600;
+}
 header {
   background-color: #264653;
 }
@@ -10,7 +17,7 @@ header {
   transition: all 0.3s ease-in-out;
 }
 .custom-btn:hover {
-  background-color: red;
+  background-color: #000000;
   border: 1px solid #ffffff;
 }
 .orange-text {
